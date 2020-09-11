@@ -3,7 +3,7 @@
 &nbsp; &nbsp; &nbsp; -[GitHub Commands](#github-commands) <br />
 &nbsp; &nbsp; &nbsp; -[Establish & Upload Local File to GitHub](#establish-and-upload-local-file-to-github) <br />
 &nbsp; &nbsp; &nbsp; -[Establish GitHub Repo](#establish-github-repo) <br />
-&nbsp; &nbsp; &nbsp; -[Remote Assignment 1 Swift Playground](https://github.com/eleanorpeng/AWSchoolOnlineAssignments/blob/master/Eleanor_RemoteAssignment1.playground.zip) <br />
+&nbsp; &nbsp; &nbsp; -[Remote Assignment 1 Swift Playground](https://github.com/eleanorpeng/AWSchoolOnlineAssignments/tree/master/Eleanor_RemoteAssignment1.playground) <br />
 -week2 <br />
 -week3 <br />
 -week4 <br />
