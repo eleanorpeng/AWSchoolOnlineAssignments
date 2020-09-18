@@ -5,6 +5,9 @@
 &nbsp; &nbsp; &nbsp; -[Establish GitHub Repo](#establish-github-repo) <br />
 &nbsp; &nbsp; &nbsp; -[Remote Assignment 1 Swift Playground](https://github.com/eleanorpeng/AWSchoolOnlineAssignments/tree/master/Eleanor_RemoteAssignment1.playground) <br />
 -week2 <br />
+&nbsp; &nbsp; &nbsp; -[Remote Assignment 2 Swift Playground](https://github.com/eleanorpeng/AWSchoolOnlineAssignments/tree/master/Week2Assignments.playground) 
+<br />
+&nbsp; &nbsp; &nbsp; -[Simple App](https://github.com/eleanorpeng/AWSchoolOnlineAssignments/tree/master/SimpleApp) <br />
 -week3 <br />
 -week4 <br />
 
