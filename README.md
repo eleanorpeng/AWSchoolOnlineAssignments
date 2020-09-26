@@ -9,6 +9,7 @@
 <br />
 &nbsp; &nbsp; &nbsp; -[Simple App](https://github.com/eleanorpeng/AWSchoolOnlineAssignments/tree/master/SimpleApp) <br />
 -week3 <br />
+&nbsp; &nbsp; &nbsp; -[AppWorks School App](https://github.com/eleanorpeng/AWSchoolOnlineAssignments/tree/master/AppWorksSchool) <br />
 -week4 <br />
 
 ---
