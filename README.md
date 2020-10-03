@@ -11,6 +11,9 @@
 -week3 <br />
 &nbsp; &nbsp; &nbsp; -[AppWorks School App](https://github.com/eleanorpeng/AWSchoolOnlineAssignments/tree/master/AppWorksSchool) <br />
 -week4 <br />
+&nbsp; &nbsp; &nbsp; -[Table View](https://github.com/eleanorpeng/AWSchoolOnlineAssignments/tree/master/TableView) <br />
+&nbsp; &nbsp; &nbsp; -[Closure Swift Playground](https://github.com/eleanorpeng/AWSchoolOnlineAssignments/tree/master/Closure.playground) <br />
+&nbsp; &nbsp; &nbsp; -[Station App](https://github.com/eleanorpeng/AWSchoolOnlineAssignments/tree/master/Station) <br />
 
 ---
 
